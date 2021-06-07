@@ -6,3 +6,5 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+
+The website can be viewed [here]( https://vivek122000.github.io/Sorting-Visualizer/)
